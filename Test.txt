@@ -1,4 +1,1 @@
-Test
-Test sample
-
-Test
+Merge test
